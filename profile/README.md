@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=https://github.com/ApiInnovators/Logo/raw/master/Full%20Logo/Exported/Raster%20Graphic/apiinnovators-full-logo-exported-1817x1024.webp height=400>
+    <img src=https://github.com/ApiInnovators/Logo/raw/master/Full%20Logo/Exported/Raster%20Graphic/apiinnovators-full-logo-exported-1817x1024.webp max-height=400>
 </p>
 
 Welcome to the API Innovators GitHub organization! We are dedicated to developing innovative and user-friendly applications.

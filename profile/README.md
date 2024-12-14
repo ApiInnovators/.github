@@ -24,6 +24,4 @@ An alternative to [schueler.schule-infoportal.de](https://schueler.schule-infopo
 
 Here are the domains we manage:
 
-- [apiinnovators.de](https://apiinnovators.de)
 - [sprache.apiinnovators.de](https://sprache.apiinnovators.de)
-- [schueler-portal.apiinnovators.de](https://schueler-portal.apiinnovators.de)
